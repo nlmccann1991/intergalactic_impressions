@@ -19,4 +19,9 @@ One popular example is a Monet-style depiction of the Louvre. This combines a st
 
 <img src="Intergalactic Impressions/Files/tf/Files/images/louvre_generated.png" style="width:750px;height:200px;">
 
+The project will use Tensorflow to generate images in the style of Paul Gauguin, a famous French painter known for his impressionist takes on French Polynesia. The final results, once fully run on Jupyter, will look like this:
+
+<img src="Intergalactic Impressions/Files/tf/Files/images/Final Results.png" style="width:750px;height:200px;">
+
+
 Download the iPYNB file here on GitHub. For the pre-trained models and all the items you need to run the tool on your device, visit Google Drive here: https://drive.google.com/drive/folders/1Jp6AuIIqbyRtoTs-MNhaPQO_JQg96JAt?usp=sharing
